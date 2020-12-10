@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Django project.

@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="100%" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="300px" style="object-fit: cover;" />
 
 ### Hi there 👋
 

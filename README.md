@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="200px" />
 
 ### Hi there 👋
 

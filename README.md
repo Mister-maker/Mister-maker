@@ -5,15 +5,15 @@
 - 🔭 I’m currently working on Django project.
 - 🌱 I’m currently learning python and javascript.
 - 👯 I’m looking to collaborate on anything that is frontend related.
-- 🤔 I’m looking for help with javascript and python, django framework.
+- 🤔 I’m looking for help with javascript, python and django framework.
 - 💬 Ask me about frontend related stuff.
 - 📫 How to reach me: mkaggrawal97@gmail.com
-- 😄 Pronouns: kool stuff 😇
+- 📺 Addiction toward Anime 😇
 - ⚡ Fun fact: I ❤️ to code
 
 <br />
 
-### Connect with me:
+### ✉️ Connect with me:
 
 [<img align="left" alt="MyAccount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_MohitAggarwal_)
 [<img align="left" alt="MyAccount | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohitaggarwal07/)
@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

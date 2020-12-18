@@ -18,6 +18,7 @@
 [<img align="left" alt="MyAccount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_MohitAggarwal_)
 [<img align="left" alt="MyAccount | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohitaggarwal07/)
 [<img align="left" alt="MyAccount | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/starboy_kool/)
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohit Aggarwal's DEV Profile" height="22" width="22">](https://dev.to/mistermaker)
 
 <br />
 

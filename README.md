@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="350px" />
-
-### Hi there 👋
+# Hey there 👋
 
 - 🔭 I’m currently working on Django project.
 - 🌱 I’m currently learning python and javascript.
@@ -10,6 +8,8 @@
 - 📫 How to reach me: mkaggrawal97@gmail.com
 - 📺 Addiction toward Anime 😇
 - ⚡ Fun fact: I ❤️ to code
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-maker&private=true&layout=compact&langs_count=6&theme=cobalt2" />
 
 <br />
 

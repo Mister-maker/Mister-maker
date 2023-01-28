@@ -9,7 +9,20 @@
 - 📺 Addiction toward Anime 😇
 - ⚡ Fun fact: I ❤️ to code
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-maker&private=true&layout=compact&langs_count=6&theme=cobalt2" />
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mister-maker&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mister-maker&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mister-maker&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mister-maker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mister-maker&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <br />
 
